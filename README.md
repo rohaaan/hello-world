@@ -1,2 +1,5 @@
 # hello-world
-just another repository with readme
+I am Rohan Kumbhar. 
+My favorite 
+    work-type is Research.
+    work-areas are Algorithms, Artificial Intelligence and Parallel Computing.
